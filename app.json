@@ -10,6 +10,9 @@
       "eas": {
         "projectId": "c4f72770-7fe4-4d61-8d19-7ca37db380cf"
       }
+    },
+    "android": {
+      "package": "com.junaidexpo.jobsift"
     }
   }
 }
