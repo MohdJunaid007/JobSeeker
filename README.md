@@ -1,7 +1,7 @@
 # JobSeeker App
 
 <div>
-    <img src="![about](https://github.com/MohdJunaid007/JobSeeker/assets/75855844/67e12da8-70b5-479d-9d35-0b117858a884)" alt="img"  width="100px"/>
+    <img src="![about](https://github.com/MohdJunaid007/JobSeeker/assets/75855844/67e12da8-70b5-479d-9d35-0b117858a884)" alt="img"  />
   </div>
 
 
