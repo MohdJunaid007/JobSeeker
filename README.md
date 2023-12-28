@@ -1,5 +1,7 @@
 # JobSeeker App
 
+![about](https://github.com/MohdJunaid007/JobSeeker/assets/75855844/67e12da8-70b5-479d-9d35-0b117858a884)
+
 ## Introduction
 
 Welcome to JobSeeker, your go-to app for exploring popular and nearby jobs with a seamless user interface and excellent user experience. This application allows users to search for different types of jobs, including full-time, part-time, and internship opportunities. Users can view detailed job descriptions, qualifications, and experience requirements before applying for their desired positions.
