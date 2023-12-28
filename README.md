@@ -1,7 +1,14 @@
 # JobSeeker App
 
 <div>
-    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/67e12da8-70b5-479d-9d35-0b117858a884" alt="img" width="100px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/5267b8b3-2dc4-4cba-ae7b-e61dd5235881" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/d116750d-1089-43d6-a11e-5230da8028db" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/c910cf50-301a-42dc-88bf-de477a284437" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/af855e3e-95ea-4e6f-9bb3-64430d246eab" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/7d7e6255-2d42-4c21-bae4-7f2a9e7a4701" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/fa57c9d8-b365-40d8-a817-97f28bd00eee" alt="img" width="200px" />
+    <img src="https://github.com/MohdJunaid007/JobSeeker/assets/75855844/a99b58b5-c758-4d5f-ae4b-c39a1ee5da23" alt="img" width="200px" />
+
   </div>
 
 
